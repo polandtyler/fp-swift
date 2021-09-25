@@ -4,7 +4,7 @@ A collection of projects for those interested in functional programming paradigm
 
 To answer your first question... _No, Swift is not a purely functional language._
 
-The goal here is learning more about functional programming paradigms, techniques, and their applications within the domain of Swift and iOS development.
+The goal here is learning more about functional programming paradigms, techniques, and their applications within the domain of Swift, Kotlin and iOS/Android development.
 
 ## Curriculum (in no particular order):
 
@@ -12,3 +12,11 @@ The goal here is learning more about functional programming paradigms, technique
 - Modeling state within the context of iOS applications
 - Partial functions
 - Beyond...
+
+## Sources
+
+Building on the shoulders of giants, here are some really excellent sources of learning:
+
+- [Point Free Co](https://www.pointfree.co/)
+- [Intro to functional programming in Swift (RayWenderlich)](https://www.raywenderlich.com/9222-an-introduction-to-functional-programming-in-swift)
+-
