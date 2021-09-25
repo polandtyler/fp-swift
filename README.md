@@ -19,7 +19,7 @@ The goal here is learning more about functional programming paradigms, technique
 
 ## Sources
 
-Building on the shoulders of giants, here are some really excellent sources of learning:
+Building on the shoulders of giants, here are some really excellent sources of learning (heavily leaned on throughout examples in this repo):
 
 - [Point Free Co](https://www.pointfree.co/)
 - [Intro to functional programming in Swift (RayWenderlich)](https://www.raywenderlich.com/9222-an-introduction-to-functional-programming-in-swift)
